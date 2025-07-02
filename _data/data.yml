@@ -40,24 +40,21 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
     - idiom: Spanish
-      level: Professional
+      level: Native
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Psychotherapy
       link:
 
 
-    - item: Snowboarding
+    - item: Music
       link:
 
 
-    - item: Cooking
+    - item: Psychedelics
       link:
 
 
